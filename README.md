@@ -1,3 +1,3 @@
 # My-project
 <br>
-Auther - saurav kumar
+Auther - saurav kumar(Computer Science)
